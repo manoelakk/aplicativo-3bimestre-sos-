@@ -1,0 +1,1 @@
+Executar python main.py
